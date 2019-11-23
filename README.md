@@ -1,1 +1,4 @@
-# learning_emotions_with_emojis
+# Learning Emotions with emojis
+
+### Installing `requirements.txt` with *conda*
+`while read req; do conda install --yes $req; done < requirements.txt`
